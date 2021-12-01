@@ -1,6 +1,8 @@
 /__pycache__
 **/pycache
 /data_bkp
+/raster-vision-examples
+/raster-vision
 .ipynb_checkpoints
 .gcloudignore
 /OS_images
