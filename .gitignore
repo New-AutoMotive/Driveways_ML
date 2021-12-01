@@ -1,0 +1,11 @@
+/__pycache__
+**/pycache
+/data_bkp
+.ipynb_checkpoints
+.gcloudignore
+/OS_images
+**/*.csv
+**/*.json
+**/*.pyc
+*.pyc
+
