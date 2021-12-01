@@ -3,6 +3,7 @@
 /data_bkp
 /raster-vision-examples
 /raster-vision
+/ML-models
 .ipynb_checkpoints
 .gcloudignore
 /OS_images
